@@ -79,7 +79,13 @@ AtliQ Hardware has been growing rapidly in recent years, and to stay ahead of th
 1. MySQL Database: facts and dimensions  Tables for all departments are imported from a MySQL database.
 2. Excel/CSV Files: Targets, Market Share data, and  other related information are collected from Excel/CSV files.
 
+## Data Model
+
+
+
+![Screenshot 2025-03-18 084807](https://github.com/user-attachments/assets/2af9f43b-39d5-46cf-ad21-8bca31df83d1)
 ## Features
+
 * **Home Page:** A landing page that provides an overview of the entire dashboard.
 * **Finance View:** Explore profit and loss statements, trends in net sales, product and Customer performance analysis
 * **Sales View:** Analyze customer and product performance with dynamic charts and filters.
