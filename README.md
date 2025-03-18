@@ -2,6 +2,10 @@
 
 "Illuminate Your Strategy with Insightful Analytics!"
 
+## Live Dashboard
+
+Check out my live Power BI dashboard: [Click here](https://app.powerbi.com/groups/me/reports/9f6c3200-7be6-4e68-b115-7fefe4d2e5f4/7c3d35be083a9f713398?experience=power-bi)
+
 ## Project Overview
 
 AtliQ Hardware has been growing rapidly in recent years, and to stay ahead of the competition, they have decided to implement data analytics using Power BI for the first time. This initiative aims to enable data-driven decision-making by providing insights into various areas such as finance, sales, marketing, and supply chain management, helping stakeholders make more informed choices.
