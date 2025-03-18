@@ -4,7 +4,7 @@
 
 ## Live Dashboard
 
-Check out my live Power BI dashboard: [Click here](https://app.powerbi.com/groups/me/reports/9f6c3200-7be6-4e68-b115-7fefe4d2e5f4/7c3d35be083a9f713398?experience=power-bi)
+Check out my live Power BI dashboard: [Click here](https://app.powerbi.com/groups/me/reports/9f6c3200-7be6-4e68-b115-7fefe4d2e5f4/67cbc3931457ae7ce1da?experience=power-bi)
 
 ## Project Overview
 
